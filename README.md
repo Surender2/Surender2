@@ -1,3 +1,4 @@
+![MasterHead](https://static.wixstatic.com/media/e943bd_92609634e26e492cae46723ad7eef8ba~mv2.gif)
 <h1 align="center">Hi 👋, I'm Surender S K</h1>
 <h3 align="center">Entry level Data Analyst | I present insights from Big Data</h3>
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
