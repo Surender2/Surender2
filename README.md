@@ -1,9 +1,13 @@
-![MasterHead](https://static.wixstatic.com/media/e943bd_92609634e26e492cae46723ad7eef8ba~mv2.gif)
+
+![MasterHead](https://user-images.githubusercontent.com/114329084/272251492-d58ebb3c-d896-4329-ae5e-88d6441f4ee6.png)
 <h1 align="center">Hi 👋, I'm Surender S K</h1>
 <h3 align="center">Entry level Data Analyst | I present insights from Big Data</h3>
-<img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surender2&label=Profile%20views&color=0e75b6&style=flat" alt="surender2" /> </p>
+
+- 🌱 I’m currently learning **Advanced Excel, Power BI, MySQL, Python**
+
+- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/surender-s-k](https://www.novypro.com/profile_projects/surender-s-k)
 
 - 📫 How to reach me **sks125521@gmail.com**
 - Hello! 🌟 Thank you for stopping by to learn a bit about me.
@@ -34,3 +38,4 @@ I'm Surender, and I'm on a thrilling journey from being a Mechanical Design Engi
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surender2&show_icons=true&locale=en" alt="surender2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surender2&" alt="surender2" /></p>
+
